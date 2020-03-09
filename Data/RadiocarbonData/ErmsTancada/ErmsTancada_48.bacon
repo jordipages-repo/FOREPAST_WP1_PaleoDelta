@@ -1,0 +1,17 @@
+## Ran on Wed Mar  4 14:46:18 2020 
+
+Cal 0 : ConstCal;
+Cal 1 : IntCal13, 1;
+Cal 2 : Marine13;
+Cal 3 : SHCal13, 1;
+
+##   id.   age    std   depth  delta.R  delta.STD     t.a   t.b   cc
+Det 0 : NA , -150, 1219000, 0,  0,  0,  3,  4,  1;
+Det 1 : ERMSTANCADA , -150, 38, 35,  0,  0,  3,  4,  1;
+Det 2 : ERMSTANCADA , 1219, 24, 154,  0,  0,  3,  4,  1;
+Det 3 : ERMSTANCADA , 1070, 29, 176,  0,  0,  3,  4,  1;
+Det 4 : ERMSTANCADA , 1100, 27, 196,  0,  0,  3,  4,  1;
+Det 5 : NA , 1100, 1.219e+09, 238,  0,  0,  3,  4,  1;
+
+##		 K   MinAge   MaxAge   th0   th0p   w.a   w.b   alpha  beta  dmin  dmax
+Bacon 0: FixT, 48,  -340,  1e+06,  -76,  -124,  2.8,  1.2,  1.5,  0.15, 0, 240;

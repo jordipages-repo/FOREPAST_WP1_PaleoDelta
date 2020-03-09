@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583755436204.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "901736372",
+    "id" : "2688E6D",
+    "lastKnownWriteTime" : 1570806219,
+    "last_content_update" : 1570806219,
+    "path" : "~/Documents/FEINA/POSTDOCTORAT/MSCA_FOREPAST/ARTICLES/WP1_Paleo/Data_analysis/MSCA_WP1_transitions/1_XRF_processing.R",
+    "project_path" : "1_XRF_processing.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

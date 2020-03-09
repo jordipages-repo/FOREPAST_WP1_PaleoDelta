@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583755437446.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1853587163",
+    "id" : "9F481A82",
+    "lastKnownWriteTime" : 1571324892,
+    "last_content_update" : 1571324892,
+    "path" : "~/Documents/FEINA/POSTDOCTORAT/MSCA_FOREPAST/ARTICLES/WP1_Paleo/Data_analysis/MSCA_WP1_transitions/2_XRF_principal_comp.R",
+    "project_path" : "2_XRF_principal_comp.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
